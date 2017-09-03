@@ -173,7 +173,7 @@ physics demo (balancing a stick) (top banner?). this book will prbbably mostly r
 
 -----
 
-from: http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/
+from: [here](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
 
 For example, we might want to make predictions about the price of a house so that represents the price of the house in dollars and the elements of represent “features” that describe the house (such as its size and the number of bedrooms). Suppose that we are given many examples of houses where the features for the i’th house are denoted and the price is . For short, we will denote the
 
